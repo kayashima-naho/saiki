@@ -1,0 +1,8 @@
+[11-Oct-2023 02:13:32 UTC] PHP Parse error:  syntax error, unexpected token "===", expecting end of file in /Users/kayashima/Local Sites/kayashimapractice/app/public/wp-content/themes/kaya/index.php on line 19
+[11-Oct-2023 02:16:59 UTC] PHP Parse error:  syntax error, unexpected token "===", expecting end of file in /Users/kayashima/Local Sites/kayashimapractice/app/public/wp-content/themes/kaya/index.php on line 19
+[11-Oct-2023 02:16:59 UTC] PHP Parse error:  syntax error, unexpected token "===", expecting end of file in /Users/kayashima/Local Sites/kayashimapractice/app/public/wp-content/themes/kaya/index.php on line 19
+[11-Oct-2023 02:17:16 UTC] PHP Parse error:  syntax error, unexpected token "===", expecting end of file in /Users/kayashima/Local Sites/kayashimapractice/app/public/wp-content/themes/kaya/index.php on line 19
+[11-Oct-2023 02:17:16 UTC] PHP Parse error:  syntax error, unexpected token "===", expecting end of file in /Users/kayashima/Local Sites/kayashimapractice/app/public/wp-content/themes/kaya/index.php on line 19
+[19-Oct-2023 06:14:53 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/kayashima/Local Sites/kayashimapractice/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[19-Oct-2023 06:15:49 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/kayashima/Local Sites/kayashimapractice/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[19-Oct-2023 06:16:30 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/kayashima/Local Sites/kayashimapractice/app/public/wp-includes/class-wp-customize-widgets.php on line 905
